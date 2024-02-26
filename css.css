@@ -1,0 +1,27 @@
+body {
+    margin: 5%;
+    margin-top: 0;
+}
+h3 {
+    font-size: 200%;
+    margin: 1.5%;
+}
+input {
+    width: 100%;
+    border: rgb(192, 179, 179) solid  1px;
+}
+input[type=radio] {
+    width: auto;
+}
+input[type=checkbox] {
+    width: auto;
+}
+input[type=color] {
+    width: 4%;
+}
+input[type=submit] {
+    width: fit-content;
+}
+input[type=reset] {
+    width: fit-content;
+}
